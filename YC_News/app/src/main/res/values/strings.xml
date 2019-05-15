@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YC_News</string>
+    <string name="toolbar_title">YC News</string>
+    <string name="menu_search">search</string>
+    <string name="default_menu">item</string>
+    <string name="navigation_view_drawer_open">Open navigation drawer</string>
+    <string name="navigation_view_drawer_close">Close navigation drawer</string>
+    <string name="edit_labels">修改标签</string>
+</resources>

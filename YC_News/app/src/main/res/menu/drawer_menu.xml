@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/labels"
+            android:icon="@mipmap/edit"
+            android:title="修改标签" />
+        <item android:id="@+id/favorite"
+            android:icon="@mipmap/favorite"
+            android:title="新闻收藏"/>
+        <item android:id="@+id/commend"
+            android:icon="@mipmap/commend"
+            android:title="新闻推荐"/>
+        <item android:id="@+id/information"
+            android:icon="@mipmap/information"
+            android:title="详情说明"/>
+    </group>
+
+</menu>
